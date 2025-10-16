@@ -32,5 +32,5 @@ while True:
    attempts += 1
    max_attempts -= 1
    if max_attempts == 0:
-     print("Game Over Homie.................")
+     print("Game Over Buddy................")
      break
